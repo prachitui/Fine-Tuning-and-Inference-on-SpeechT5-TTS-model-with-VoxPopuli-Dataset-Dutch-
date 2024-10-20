@@ -1,6 +1,6 @@
 # Fine-Tuning and Inference with SpeechT5 (Text-to-Speech) on Dutch VoxPopuli Dataset
 
-This repository contains a Jupyter notebook for fine-tuning the SpeechT5 model for Text-to-Speech (TTS) tasks using the Dutch subset of the VoxPopuli dataset. The notebook demonstrates how 
+This repository contains a Jupyter notebook for fine-tuning the [SpeechT5](https://arxiv.org/abs/2110.07205) model for Text-to-Speech (TTS) tasks using the Dutch subset of the VoxPopuli dataset. The notebook demonstrates how 
 to preprocess the dataset, fine-tune the model on a custom dataset, and perform TTS inference using a locally stored and fine-tuned model and a HiFi-GAN vocoder.
 
 # Overview
